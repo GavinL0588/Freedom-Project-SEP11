@@ -51,7 +51,38 @@ h7{
     display:none;
 font-size:25px;
 }
+h7{
+    text-align:center;
+    display:none;
+font-size:25px;
+}
+h8{
+    text-align:center;
+    display:none;
+font-size:25px;
+}
+h9{
+    text-align:center;
+    display:none;
+font-size:25px;
+}
+h10{
+    text-align:center;
+    display:none;
+font-size:25px;
+}
+h11{
+    text-align:center;
+    display:none;
+font-size:25px;
+}
+
 
 body{
     text-align:center;
 }
+img{
+    height:200px;
+    width:300px;
+}
+h.inset {border-style: inset;}
